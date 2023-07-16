@@ -6,13 +6,14 @@ React 라이브러리는 약 30퍼 정도로 활용 가능합니다. <br/>
 저는 현재 성장 지향형 웹 개발자로 나가는 것을 원하며, 끊임없는 도전 의식과 미미한 부분을 채워 나가는 식으로 통해 나아가고 있습니다. <br/>
 
 <br/><br/>
-<h2>저는 현재 아래와 같이 보유 스택을 지니고 있습니다.</h2>
-```
-- 백엔드 스택 : java, jsp, spring, springBoot, Mybatis, JPA
-- 프론트엔드 스택 : React, JQuery, Javascript, HTML5, CSS, SCSS/SASS
-- DB 스택 : MySQL, MariaDB, MSSQL, Oracle
-- OS 및 서버 : Linux, WebLogic, AWS, Nginx
-```
+### 저는 현재 아래와 같이 보유 스택을 지니고 있습니다.
+
+<pre>
+  - 백엔드 스택 : java, jsp, spring, springBoot, Mybatis, JPA
+  - 프론트엔드 스택 : React, JQuery, Javascript, HTML5, CSS, SCSS/SASS
+  - DB 스택 : MySQL, MariaDB, MSSQL, Oracle
+  - OS 및 서버 : Linux, WebLogic, AWS, Nginx
+</pre>
 <br/><br/>
 
 현재 저의 주력 스택은 React / Java 및 Spring Boot 와 MySQL과 My-Batis 기반 프로젝트로 하고 있으며, AWS t2.small, Route 53 및 nginx로 이용하여 서버 오픈하는 것에 강점을 가지고 있습니다. <br/>
