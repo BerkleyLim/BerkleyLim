@@ -15,8 +15,11 @@ React 외적으로 Spring Boot 프로젝트 또한 제한적으로 가능하며,
   - OS 및 서버 : Linux, WebLogic, AWS, Nginx
 </pre>
 
-현재 저의 주력 스택은 React / Java 및 Spring Boot 와 MySQL과 My-Batis 기반 프로젝트이며, AWS t2.small, Route 53 및 nginx로 이용하여 서버 오픈하는 것에 강점을 가지고 있습니다. <br/>
-지금은 Github 프로젝트를 통해 연습 과정을 밟고 있으며, 그것을 기술 블로그 형태로 개발 흔적을 남기는 것에 초점을 두는 것이 목적이며, 외부적으로도 사이드 프로젝트 비슷하게 참여하여 실력을 늘리는 것이 목표입니다. <br/><br/>
+React가 주력 스택이고, <br/>
+이외의 Java 및 Spring Boot 와 MySQL과 My-Batis를 연습해 왔으며,<br/>
+AWS t2.small, Route 53 및 nginx로 이용하여 서버 오픈하는 것에 강점을 가지고 있습니다. <br/>
+지금은 Github 프로젝트를 통해 연습 과정을 밟고 있으며, <br/>
+그것을 기술 블로그 형태로 개발 흔적을 남기는 것에 초점을 두고 외부적으로도 사이드 프로젝트 비슷하게 참여하여 실력을 늘리는 것이 목표입니다. <br/><br/>
 
 ### 현재 저의 목표는 다음과 같습니다.
 - React 기반으로 고객이 원하는 화면단 구축하는 것을 습득을 목적합니다.
