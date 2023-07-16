@@ -16,9 +16,8 @@ React 외적으로 Spring Boot 프로젝트 또한 제한적으로 가능하며,
 <div>
   <h3>Front End</h3>
   <img src="https://img.shields.io/badge/react-violet?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/jquery-orange?style=flat&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/redux-violet?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/jquery-orange?style=flat&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/jquery-orange?style=flat&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-white?style=flat&logo=html5&logoColor=black" />
   <img src="https://img.shields.io/badge/css-blue?style=flat&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/scss-blue?style=flat&logo=scss&logoColor=white" />
