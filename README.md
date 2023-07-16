@@ -1,3 +1,4 @@
+
 ## 소개
 안녕하세요 웹 개발자 Berkley 입니다. <br/>
 저는 주력 스택은 프론트엔드 React 이며, 현재 반응형 웹앱 개발이 가능한 수준입니다.<br/>
@@ -7,19 +8,44 @@
 따라서, Github를 이용하여 토이 프로젝트 및 사이드 프로젝트를 꾸준히 진행 중이며, 주력으로 하는 것은 React 입니다. <br/>
 React 외적으로 Spring Boot 프로젝트 또한 제한적으로 가능하며, 최근에 블로그를 오픈하면서 기술 블로그 형태로 현재 진행형으로 제작 중입니다. <br/><br/>
 
-### 저는 현재 까지 아래와 같이 보유 스택을 지니고 있습니다.
-<pre>
-  - 백엔드 스택 : java, jsp, spring, springBoot, Mybatis, JPA
-  - 프론트엔드 스택 : React, JQuery, Javascript, HTML5, CSS, SCSS/SASS
-  - DB 스택 : MySQL, MariaDB, MSSQL, Oracle
-  - OS 및 서버 : Linux, WebLogic, AWS, Nginx
-</pre>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkleyLim&hide=contribs,prs)
 
-React가 주력 스택이고, <br/>
-이외의 Java 및 Spring Boot 와 MySQL과 My-Batis를 연습해 왔으며,<br/>
-AWS t2.small, Route 53 및 nginx로 이용하여 서버 오픈하는 것에 강점을 가지고 있습니다. <br/>
-지금은 Github 프로젝트를 통해 연습 과정을 밟고 있으며, <br/>
-그것을 기술 블로그 형태로 개발 흔적을 남기는 것에 초점을 두고 외부적으로도 사이드 프로젝트 비슷하게 참여하여 실력을 늘리는 것이 목표입니다. <br/><br/>
+### 저는 현재 까지 아래와 같이 보유 스택을 지니고 있습니다.
+<div>
+  <h3>Front End</h3>
+  <img src="https://img.shields.io/badge/react-violet?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux-violet?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/jquery-orange?style=flat&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/jquery-orange?style=flat&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-white?style=flat&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/css-blue?style=flat&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/scss-blue?style=flat&logo=scss&logoColor=white" />
+</div>
+<div>
+  <h3>Back End</h3>
+  <img src="https://img.shields.io/badge/java-red?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/jsp-yello?style=flat&logo=jsp&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-green?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/springboot-green?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/mybatis-gray?style=flat&logo=mybatis&logoColor=white" />
+  <img src="https://img.shields.io/badge/jpa-pink?style=flat&logo=jpa&logoColor=white" />
+</div>
+</div>
+<div>
+  <h3>Back End</h3>
+  <img src="https://img.shields.io/badge/mysql-blue?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mariadb-blee?style=flat&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mssql-blue?style=flat&logo=mssql&logoColor=white" />
+  <img src="https://img.shields.io/badge/oracle-red?style=flat&logo=oracle&logoColor=white" />
+</div>
+</div>
+<div>
+  <h3>OS/Server</h3>
+  <img src="https://img.shields.io/badge/linux-gray?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/aws-red?style=flat&logo=aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-green?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/weblogic-red?style=flat&logo=weblogic&logoColor=white" />
+</div>
 
 ### 현재 저의 목표는 다음과 같습니다.
 - React 기반으로 고객이 원하는 화면단 구축하는 것을 습득을 목적합니다.
