@@ -29,6 +29,6 @@ React 외적으로 Spring Boot 프로젝트 또한 제한적으로 가능하며,
 
 ### SMS
 - Blog : https://berkley.tistory.com/
-- Kakao : https://open.kakao.com/o/s02uH9uf
+- kakao : https://open.kakao.com/me/prgberkley
 - email : berkleylim16@gmail.com
 
