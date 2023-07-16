@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 ## 소개
 안녕하세요 웹 개발자 Berkley 입니다. <br/>
 저는 주력 스택은 React 웹 개발자이며, 현재 반응형 웹앱 개발이 가능합니다.
@@ -25,4 +24,6 @@
 - 기타 스택, Python과 FAST API, 텐션플로우 등 각종 라이브러리 및 언어 습득
 - 장기적인 목적으로 중급 이상 개발자의 역량을 준하는 실력을 보유하는 것이 목적 
 
-
+### 외부 커뮤니티
+- Blog : https://berkley.tistory.com/
+- Kakao : https://open.kakao.com/o/s02uH9uf
