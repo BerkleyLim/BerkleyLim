@@ -3,7 +3,6 @@
 저는 주력 스택은 React 웹 개발자이며, 현재 반응형 웹앱 개발이 가능합니다.
 저는 현재 성장 지향형 웹 개발자로 나가는 것을 원하며, 끊임없는 도전 의식과 미미한 부분을 채워 나가는 식으로 통해 나아가고 있습니다. <br/>
 
-<br/><br/>
 ### 저는 현재 아래와 같이 보유 스택을 지니고 있습니다.
 <pre>
   - 백엔드 스택 : java, jsp, spring, springBoot, Mybatis, JPA
@@ -24,6 +23,6 @@
 - 기타 스택, Python과 FAST API, 텐션플로우 등 각종 라이브러리 및 언어 습득
 - 장기적인 목적으로 중급 이상 개발자의 역량을 준하는 실력을 보유하는 것이 목적 
 
-### 외부 커뮤니티
+### SMS
 - Blog : https://berkley.tistory.com/
 - Kakao : https://open.kakao.com/o/s02uH9uf
