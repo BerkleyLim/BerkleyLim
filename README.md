@@ -45,6 +45,11 @@
 - 사이드 프로젝트에서 적극적으로 아이디어를 주실분
 - 저의 개발실력을 성장의 대해 기여해주실분
 
+## CLNEWZE 프로젝트 피드백 받습니다.
+- 현재, 크고 작은 변화가 일어나고 있고, 아이디어를 제공해주시면 최대한 반영하겠습니다.
+- kakao : https://open.kakao.com/me/clnewzedeveloper 를 통해 아이디어 제시해주시거나, email : berkleylim16@gmail.com 으로 제시해주시면 감사하겠습니다.
+- 개발 서버는 프로젝트 컨트리뷰터 및 음악 관련된 컨텐츠 아이디어 제공 해주시는 분들 한정으로만 공유해드립니다.
+
 ### SMS
 - Blog : https://berkley.tistory.com/
 - kakao : https://open.kakao.com/me/prgberkley
