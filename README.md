@@ -45,6 +45,10 @@
 - 사이드 프로젝트에서 적극적으로 아이디어를 주실분
 - 저의 개발실력을 성장의 대해 기여해주실분
 
+## 외주 문의
+- 현재 저는 React, Java, JQuery, Javascript, Spring Boot, My-Batis를 기반으로 하는 프로젝트일 경우 진행 가능
+- 고객이 무엇이 원하고, 어떻게 적용시켜줄 것인지 서비스 이용 가능
+
 ## CLNEWZE 프로젝트 피드백 받습니다.
 - 현재, 크고 작은 변화가 일어나고 있고, 아이디어를 제공해주시면 최대한 반영하겠습니다.
 - kakao : https://open.kakao.com/me/clnewzedeveloper 를 통해 아이디어 제시해주시거나, email : berkleylim16@gmail.com 으로 제시해주시면 감사하겠습니다.
