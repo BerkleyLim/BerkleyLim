@@ -48,6 +48,7 @@
 ## 외주 문의
 - 현재 저는 React, Java, JQuery, Javascript, Spring Boot, My-Batis를 기반으로 하는 프로젝트일 경우 진행 가능
 - 고객이 무엇이 원하고, 어떻게 적용시켜줄 것인지 서비스 이용 가능
+- 외주 플랫폼 : http://www.berkleylim.link/request
 
 ## CLNEWZE 프로젝트 피드백 받습니다.
 - 현재, 크고 작은 변화가 일어나고 있고, 아이디어를 제공해주시면 최대한 반영하겠습니다.
