@@ -56,6 +56,10 @@
 - 고객이 무엇이 원하고, 어떻게 적용시켜줄 것인지 서비스 이용 가능
 - 외주 플랫폼 : http://www.berkleylim.link/request
 
+## profile 피드백 문의
+- 지금은 redux와 react-query를 활용하여 사용 하고 있습니다.
+- 현재, 개발자 소개 및 외주 의뢰 프로젝트를 운영하면서 좀 더 효율적으로 운영할 수 있는 부분 알려주시면 감사하겠습니다. (23년 11월 1일 기준 갱신) 
+
 ## CLNEWZE 프로젝트 피드백 받습니다.
 - 현재, 크고 작은 변화가 일어나고 있고, 아이디어를 제공해주시면 최대한 반영하겠습니다.
 - kakao : https://open.kakao.com/me/clnewzedeveloper 를 통해 아이디어 제시해주시거나, email : berkleylim16@gmail.com 으로 제시해주시면 감사하겠습니다.
