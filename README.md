@@ -42,12 +42,6 @@
   <img src="https://img.shields.io/badge/weblogic-red?style=flat&logo=weblogic&logoColor=white" />
 </div>
 
-### Welcome To Github Contributor
-- 저의 Github를 들어가시면 전체적으로 피드백을 해주실분
-- 사이드 프로젝트에서 적극적으로 아이디어를 주실분
-- 저의 개발실력을 성장의 대해 기여해주실분
-
-
 ### SMS
 - Blog : https://berkley.tistory.com/
 - kakao : https://open.kakao.com/me/prgberkley
