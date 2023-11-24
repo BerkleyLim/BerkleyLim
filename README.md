@@ -19,11 +19,12 @@
 <div>
   <h3>Back End</h3>
   <img src="https://img.shields.io/badge/java-red?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/jsp-yello?style=flat&logo=jsp&logoColor=white" />
+  <img src="https://img.shields.io/badge/jsp-yellow?style=flat&logo=jsp&logoColor=white" />
   <img src="https://img.shields.io/badge/spring-green?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/springboot-green?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/mybatis-gray?style=flat&logo=mybatis&logoColor=white" />
   <img src="https://img.shields.io/badge/jpa-pink?style=flat&logo=jpa&logoColor=white" />
+  <img src="https://img.shields.io/badge/nodejs-yellow?style=flat&logo=nodejs&logoColor=white" />
 </div>
 </div>
 <div>
