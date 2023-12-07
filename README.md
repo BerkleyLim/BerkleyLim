@@ -45,6 +45,5 @@
 
 ### SMS
 - Blog : https://berkley.tistory.com/
-- kakao : https://open.kakao.com/me/prgberkley
 - email : berkleylim16@gmail.com
 
