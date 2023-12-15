@@ -2,7 +2,8 @@
 > - 저는 개발 숙련도를 높이기 위해 꾸준히 프로젝트를 통하여 진행하고 있습니다
 > - 현재는 많은 스택을 보유를 목적으로 하여 전문적으로 다양한 스택을 가진 개발자로 보유하기 위해 진행합니다.
 > - 실패했던점, 성공했던 점 공부 내역은 블로그에 기록을 남기고, 예비 개발자들에게 저의 재능을 기부를 목적으로 합니다.
-.<br/> 
+> - 개발 세계의 대한 내공을 넓히기 위해 학습 진행 후 많은 스택을 사용해보고, 누구에게나 환영 받는 개발자로 달성을 목표로 합니다.
+<br/> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkleyLim&layout=compact&hide=HTML,R,PUG,GROOVY)
 
