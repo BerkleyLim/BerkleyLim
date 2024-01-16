@@ -1,9 +1,11 @@
 ## Introduction
-> - 현직 프리랜서 개발자이며 스타트업이나 사업의 대해 관심이 많습니다
-> - 개발에 진심이며 우직함과 책임감 있는 사람 중 하나입니다.
-> - 단순히 아웃풋만 내는 코드가 아닌 유지보수 쉬운 코드로 작성하는 주의 중 하나입니다.
-> - 개발의 관련 일이라면 흥미를 가지면서 다양한 기술을 폭넓게 바라보며 관심있는 기술 중에 깊게 파고 듭니다
-> - 재능기부나 외주 프로젝트 등 가리지 않고 개발 숙련도를 위해서라면 뭐든지 하는 사람 중 하나입니다
+> - I am currently freelancer of Web & App developer.
+> - I am interested in Venture company or Enterprise.
+> - I am serious about Programming development.
+> - I am one of the honest and responsible someone.
+> - My development style is to make maintanence easy code, but i hate only output code.
+> - If it's related to programming development, I'm interested in a wide range of technologies and dig deep into the technologies I am interested in.
+> - I am one of those people who will do anything for development proficiency, whether it is talent donation or outsourcing projects.
 <br/> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkleyLim&layout=compact&hide=HTML,R,PUG,GROOVY)
