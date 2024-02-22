@@ -32,7 +32,7 @@
 </div>
 </div>
 <div>
-  <h3>Back End</h3>
+  <h3>Database</h3>
   <img src="https://img.shields.io/badge/mysql-blue?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/mariadb-blee?style=flat&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/mssql-blue?style=flat&logo=mssql&logoColor=white" />
