@@ -14,6 +14,9 @@ I am a passionate software developer specializing in web and app development. I 
 [![Berkley's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkleyLim)]([https://github.com/BerkleyLim/github-readme-stats](https://github-readme-stats.vercel.app/api?username=BerkleyLim))
 
 
+### Velog 최근 글 보기
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=berkleylim)](https://velog.io/@berkleylim/posts)
+
 ## My Skills
 
 ### Front End
