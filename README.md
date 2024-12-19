@@ -10,8 +10,8 @@ I am a passionate software developer specializing in web and app development. I 
 
 ### My Info
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkleyLim)](https://github.com/anuraghazra/github-readme-stat)
-[![Berkley's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkleyLim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkleyLim)](https://github.com/BerkleyLim/github-readme-stat)
+[![Berkley's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkleyLim)](https://github.com/BerkleyLim/github-readme-stats)
 
 
 ## My Skills
