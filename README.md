@@ -15,7 +15,9 @@ I am a passionate software developer specializing in web and app development. I 
 
 
 ### Berkley's Recent Velog Post
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=berkleylim)](https://velog.io/@berkleylim/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=berkleylim)](https://velog.io/@berkleylim)
+
+
 
 ## My Skills
 
