@@ -66,11 +66,6 @@ I am a passionate software developer specializing in web and app development. I 
 
 1. [CLNEWZE Beta](https://github.com/clnewze/CLNEWZE_Beta)
    - A comprehensive music platform service project. This beta version showcases the core functionalities and serves as a foundation for further development.
-2. [OBAB Project](https://github.com/O-BAB)
-   - A portfolio project developed in collaboration with AI. This project focused on enhancing user experience and mentoring junior developers.
-3. [Project Board](https://github.com/BerkleyLim/project-board)
+   
+2. [Project Board](https://github.com/BerkleyLim/project-board)
    - A simple CRUD application project aimed at beginners. This project is documented on my blog, providing a detailed guide for newcomers to understand the basics of CRUD operations.
-4. [Todolist](https://github.com/BerkleyLim/todolist)
-   - A project focused on building a to-do list application. This front-end project is also shared on my blog, offering insights into the development process and best practices for creating a functional to-do list app.
-5. [Foodstore POS](https://github.com/BerkleyLim/foodstor_pos)
-   - A virtual POS system designed for food stores. This project, shared on my blog, explains the creation of a foodstore POS machine using React and Spring Boot, highlighting the practical implementation of such systems.
