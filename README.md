@@ -61,11 +61,3 @@ I am a passionate software developer specializing in web and app development. I 
 ![REST](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
-
-## Projects
-
-1. [CLNEWZE Beta](https://github.com/clnewze/CLNEWZE_Beta)
-   - A comprehensive music platform service project. This beta version showcases the core functionalities and serves as a foundation for further development.
-   
-2. [Project Board](https://github.com/BerkleyLim/project-board)
-   - A simple CRUD application project aimed at beginners. This project is documented on my blog, providing a detailed guide for newcomers to understand the basics of CRUD operations.
