@@ -1,12 +1,21 @@
 ## Hi, I'm Berkley Lim! 👋
 
-I am a passionate software developer specializing in web and app development. I love collaborating with venture companies and enterprises to build impactful and innovative solutions. Dedicated to my craft, I am known for my:
-- Honesty and responsibility
-- Striving to write maintainable and efficient code
+I am a **software developer** dedicated to **object-oriented design** and **quality-driven development**.  
+Rather than rushing for speed, I dive deep into **clean architecture, maintainability, and modularization**, ensuring every line of code is robust and scalable.
 
-- 🌐 Blog 1: [berkley.tistory.com](http://berkley.tistory.com)
-- 🌐 Blog 2: [velog.io/@berkleylim](https://velog.io/@berkleylim)
+Currently, I run **CLNEWZE Lab**, my personal research lab, where I focus on R&D and experimental software projects.  
+This is my space to explore new architectures, refine development practices, and build solutions with long-term value.
+
+- 🔧 Core Tech: Java (Spring Boot), QueryDSL, MyBatis, Redis, MySQL, AWS  
+- 💻 Frontend & Mobile: React, React Native, TypeScript  
+- 🛠️ Interests: OOP principles, software craftsmanship, sustainable system architecture  
+
+I believe great software is not only about features—it’s about **clarity, structure, and resilience**.
+
+- 🌐 Blog 1: [berkley.tistory.com](http://berkley.tistory.com)  
+- 🌐 Blog 2: [velog.io/@berkleylim](https://velog.io/@berkleylim)  
 - 📧 Email: berkleylim16@gmail.com
+
 
 ### My Info
 
