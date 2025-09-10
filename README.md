@@ -1,12 +1,11 @@
 ## Hi, I'm Berkley Lim! 👋
 
-I am a **software developer** dedicated to **object-oriented design** and **quality-driven development**.  
-Rather than rushing for speed, I dive deep into **clean architecture, maintainability, and modularization**, ensuring every line of code is robust and scalable.
+I am a software developer dedicated to object-oriented design and quality-driven development.  
+Rather than chasing speed, I focus on clean architecture, maintainability, and modularization—ensuring every line of code is robust and scalable.
 
-Currently, I run **CLNEWZE Lab**, my personal research lab, where I focus on R&D and experimental software projects.  
-This is my space to explore new architectures, refine development practices, and build solutions with long-term value.
+I currently run **CLNEWZE Lab**, my personal research space, where I explore new architectures, refine development practices, and build experimental software projects with long-term technical value.
 
-- 🔧 Core Tech: Java (Spring Boot), QueryDSL, MyBatis, Redis, MySQL, AWS  
+- 🔧 Core Tech: Java (Spring Boot), Node.js, Redis, MySQL, AWS  
 - 💻 Frontend & Mobile: React, React Native, TypeScript  
 - 🛠️ Interests: OOP principles, software craftsmanship, sustainable system architecture  
 
