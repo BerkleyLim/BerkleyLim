@@ -12,8 +12,6 @@ This is my space to explore new architectures, refine development practices, and
 
 I believe great software is not only about features—it’s about **clarity, structure, and resilience**.
 
-- 🌐 Blog 1: [berkley.tistory.com](http://berkley.tistory.com)  
-- 🌐 Blog 2: [velog.io/@berkleylim](https://velog.io/@berkleylim)  
 - 📧 Email: berkleylim16@gmail.com
 
 
@@ -23,8 +21,8 @@ I believe great software is not only about features—it’s about **clarity, st
 [![Berkley's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkleyLim)]([https://github.com/BerkleyLim/github-readme-stats](https://github-readme-stats.vercel.app/api?username=BerkleyLim))
 
 
-### Berkley's Recent Velog Post
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=berkleylim)](https://velog.io/@berkleylim)
+-- ### Berkley's Recent Velog Post
+-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=berkleylim)](https://velog.io/@berkleylim)
 
 
 
