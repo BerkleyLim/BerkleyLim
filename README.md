@@ -20,10 +20,10 @@ I believe great software is not only about features—it’s about **clarity, st
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkleyLim)]([https://github.com/BerkleyLim/github-readme-stat](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkleyLim))
 [![Berkley's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkleyLim)]([https://github.com/BerkleyLim/github-readme-stats](https://github-readme-stats.vercel.app/api?username=BerkleyLim))
 
-
--- ### Berkley's Recent Velog Post
--- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=berkleylim)](https://velog.io/@berkleylim)
-
+<--
+### Berkley's Recent Velog Post
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=berkleylim)](https://velog.io/@berkleylim)
+-->
 
 
 ## My Skills
