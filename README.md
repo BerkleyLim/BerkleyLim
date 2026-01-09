@@ -3,7 +3,9 @@
 I am a software developer dedicated to object-oriented design and quality-driven development.  
 Rather than chasing speed, I focus on clean architecture, maintainability, and modularization—ensuring every line of code is robust and scalable.
 
-I currently run **C Lab**, my personal research space, where I explore new architectures, refine development practices, and build experimental software projects with long-term technical value.
+I currently run **C Lab**, a technical research lab under CLNEWZE, focused on architecture exploration, validated experiments, and craftsmanship-driven software development.
+
+C Lab emphasizes depth, correctness, and long-term sustainability, prioritizing reliable and well-structured solutions over risky or trend-driven implementations.
 
 - 🔧 Core Tech: Java (Spring Boot), Node.js, Redis, MySQL, AWS  
 - 💻 Frontend & Mobile: React, React Native, TypeScript  
