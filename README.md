@@ -16,8 +16,7 @@ I believe great software is not only about features—it’s about **clarity, st
 
 ### My Info
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkleyLim&layout=compact&cache_seconds=1800)
-![Stats](https://github-readme-stats.vercel.app/api?username=BerkleyLim&show_icons=true&cache_seconds=1800)
+> Focused on long-term, architecture-driven software development.
 
 
 ## My Skills
