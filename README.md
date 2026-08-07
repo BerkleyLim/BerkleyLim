@@ -7,7 +7,7 @@ I currently run **C Lab**, a technical research lab under CLNEWZE, focused on ar
 
 C Lab emphasizes depth, correctness, and long-term sustainability, prioritizing reliable and well-structured solutions over risky or trend-driven implementations.
 
-- 🔧 Core Tech: Java (Spring Boot), Node.js, Redis, MySQL, AWS  
+- 🔧 Core Tech: Java (Spring Boot), Node.js, Redis, MySQL, AWS, Docker, Jenkins
 - 💻 Frontend & Mobile: React, React Native, TypeScript  
 - 🛠️ Interests: OOP principles, software craftsmanship, sustainable system architecture  
 
